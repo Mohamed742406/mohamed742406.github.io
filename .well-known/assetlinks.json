@@ -7,7 +7,8 @@
       "namespace": "android_app",
       "package_name": "com.elkasaby.standards2",
       "sha256_cert_fingerprints": [
-        "FC:08:D0:98:03:07:FC:06:82:74:4E:38:08:A5:B7:46:B8:98:3C:CF:49:AA:3B:10:83:31:85:2F"
+        "FC:08:D0:98:03:07:FC:06:82:74:4E:38:08:A5:B7:46:B8:98:3C:CF:49:AA:3B:10:83:31:85:2F",
+        "FE:14:E0:AF:FC:08:D0:98:03:D7:FC:06:82:74:4E:38:08:A5:B7:46:8B:98:2C:CF:49:AA:3B:10:B3:31:85:2F"
       ]
     }
   }
