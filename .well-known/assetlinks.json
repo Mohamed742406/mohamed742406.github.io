@@ -7,8 +7,20 @@
       "namespace": "android_app",
       "package_name": "com.elkasaby.standards2",
       "sha256_cert_fingerprints": [
-        "FC:08:D0:98:03:07:FC:06:82:74:4E:38:08:A5:B7:46:B8:98:3C:CF:49:AA:3B:10:83:31:85:2F",
-        "FE:14:E0:AF:FC:08:D0:98:03:D7:FC:06:82:74:4E:38:08:A5:B7:46:8B:98:2C:CF:49:AA:3B:10:B3:31:85:2F"
+        "FC:08:00:98:03:07:FC:06:82:74:4E:38:08:A5:87:46:88:98:3C:CF:49:AA:38:10:83:31:85:2F",
+        "FE:14:E0:AF:FC:08:00:98:03:07:FC:06:82:74:4E:38:08:A5:87:46:88:98:2C:CF:49:AA:38:10:83:31:85:2F"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.kayan.feed",
+      "sha256_cert_fingerprints": [
+        "ED:63:D4:3B:D8:BE:B2:E2:22:46:65:CD:38:CA:6D:05:E9:E4:2C:E9:D0:76:AF:8F:A6:BC:24:67:DF:75:00:04"
       ]
     }
   }
